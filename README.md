@@ -29,9 +29,12 @@ O **Quiz do Milhão** é um aplicativo interativo de perguntas e respostas com m
 
 ## 👨‍💻 Divisão de Tarefas
 
-| Membro 		 | Responsabilidade                                  |
+| Membro 		 | Responsabilidade                                           |
 |------------------------|---------------------------------------------------|
 | **Gabriel F**          | Estrutura HTML e estilização com CSS              |
 | **Gabriel F**          | Implementação da lógica JavaScript (quiz, placar) |
 | **Keurliano**          | Criação do banco de perguntas                     |
-| **Keurliano**          | Testes, revisão de código e mensagens de resultado|
+| **André**              | Testes, revisão de código e mensagens de resultado|
+| **Luan Pereira**       | Levantamentos de requisitos, correções	           |
+| **Jéssica**            | Estética e Design                                 |
+
